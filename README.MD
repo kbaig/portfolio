@@ -8,4 +8,4 @@
 
 ## Certifications and Assessments
 - [Triplebyte Front End Engineer Certification](https://triplebyte.com/certificate/JbEi886)
-- [React Assessment administered by IKM - 93%](./IKM-score.pdf)
+- [React Assessment administered by IKM - 93%](./IKM-result.pdf)
